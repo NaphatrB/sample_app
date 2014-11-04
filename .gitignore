@@ -19,4 +19,4 @@
 /spring/*.pid
 
 #Ignore .c9
-.c9
+.c9/
